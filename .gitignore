@@ -1,0 +1,6 @@
+*.*
+!chessviz.c
+!.gitignore
+!Makefile
+!README.md
+!.clang-format
